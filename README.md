@@ -41,7 +41,7 @@ Test your memory by repeating an increasingly longer sequence of colored buttons
 
 ## 📸 Screenshot
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/52395675-865c-440a-a60c-c551118ffcde" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/52395675-865c-440a-a60c-c551118ffcde" />
 
 
 ---
