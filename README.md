@@ -43,6 +43,11 @@ Test your memory by repeating an increasingly longer sequence of colored buttons
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/52395675-865c-440a-a60c-c551118ffcde" />
 
+---
+
+## Live Demo
+
+https://rainbow-bubblegum-e4c3f0.netlify.app/
 
 ---
 
